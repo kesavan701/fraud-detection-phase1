@@ -30,7 +30,7 @@ The file is not stored in this repository. Download `creditcard.csv` from Kaggle
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/fraud-detection-phase1.git
+git clone https://github.com/kesavan701/fraud-detection-phase1.git
 cd fraud-detection-phase1
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
